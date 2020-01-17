@@ -23,3 +23,7 @@ If any of this resonates with you, **I'm actively looking for full-time roles in
 <!-- Recent work
 ======
 {% for post in site.recent %} {% include archive-recent.html %} {% endfor %} -->
+
+What I'm listening to
+------
+{% include spotifyPlaylist.html id="5VIxiW2aU9eWnnC1EIzaos" %}
